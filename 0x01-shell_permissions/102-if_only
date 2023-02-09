@@ -1,0 +1,2 @@
+#!/bin/ban
+chown --from=guillame betty hello
